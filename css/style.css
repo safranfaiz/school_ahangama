@@ -9862,10 +9862,3 @@ a.text-dark:hover, a.text-dark:focus {
 .text-justify {
   text-align: justify;
 }
-
-.isDisabled {
-  color: currentColor;
-  cursor: default;
-  opacity: 0.5;
-  text-decoration: none;
-}
