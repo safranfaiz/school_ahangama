@@ -9862,3 +9862,19 @@ a.text-dark:hover, a.text-dark:focus {
 .text-justify {
   text-align: justify;
 }
+
+.border-cust {
+  padding: 2%;
+  background-color: #f9c5b063;
+  border: 6px solid #89b1e5 !important;
+}
+
+.box-shadow-cust {
+  box-shadow: 1px 1px 12px 7px black;
+}
+
+.box-radius-about {
+  background-color: aliceblue;
+  box-shadow: 1px 1px 18px 3px #37c1f0;
+  border-radius: 13px;
+}
